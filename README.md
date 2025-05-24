@@ -2,7 +2,7 @@
 <h3 align="center">Diploma Computer Engineering Student | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Java+%7C+Desktop+Apps+%7C+QR+Code+Systems;Let's+build+something+cool+💻" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E154&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!%F0%9F%98%8E;Lets+Build+something+cool+%F0%9F%92%BB" alt="Typing SVG" /></a>>
 </p>
 
 ---
