@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Surve</h1>
-<h3 align="center">Diploma Computer Engineering Student | Tech Enthusiast</h3>
+<h3 align="center">BE Second Year Computer Engineering | DYPTC Pune</h3>
+<h3 align="center">Diploma Computer Engineering</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E154&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!%F0%9F%98%8E;Lets+Build+something+cool+%F0%9F%92%BB" alt="Typing SVG" /></a>
