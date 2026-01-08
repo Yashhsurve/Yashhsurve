@@ -8,6 +8,11 @@
 
 ---
 
+# 💫 About Me:
+🔭 I’m currently working on figuring things out in the best way possible. I’m a second-year BE Computer Engineering student exploring different domains, building projects, and slowly shaping my path in tech without rushing the process.<br>👯 I’m looking to collaborate on student projects, creative tech ideas, beginner-friendly open-source work, and platforms that help students learn skills that actually matter in the real world.<br>🤝 I’m looking for help with guidance on real-world projects, feedback on designs and ideas, and understanding how to transition from learning to building impactful things.<br>🌱 I’m currently learning skills required to become a data analyst, including data handling, analysis concepts, tools, and practical learning through hands-on projects.<br>⚡ Fun fact – I have a creative mind, love designing things, and enjoy working on projects way more than just studying theory. If it involves building, I’m in.
+
+---
+
 ### 🔗 Connect with Me
 <p align="left">
   <a href="mailto:your.surveyash2005@gmail.com.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
