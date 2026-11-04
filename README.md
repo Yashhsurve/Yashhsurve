@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Yash Surve</h1>
 
 <h3 align="center">
-  Computer Engineering Student | Developer | Tech Enthusiast | Community Builder
+  Computer Engineering Student | Tech Enthusiast | Community Builder
 </h3>
 
 <p align="center">
