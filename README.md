@@ -79,19 +79,6 @@ Here are some things I've been working on:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashhsurve&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashhsurve&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashhsurve&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Let's Connect!
 
 I'm always open to connecting with fellow developers, students, tech enthusiasts, and people who love building things.
