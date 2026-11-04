@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hey there! 👋 I'm Yash Surve</h1>
 
 <h3 align="center">
@@ -118,4 +117,3 @@ I'm always open to connecting with fellow developers, students, tech enthusiasts
 </p>
 
 <h3 align="center">Thanks for stopping by! ⭐</h3>
-```
